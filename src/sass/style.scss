@@ -1,5 +1,10 @@
-@import 'base/_variables';
-@import 'animations';
+@import 'base/variables';
+@import 'base/animations';
+@import 'base/font';
+@import 'base/animate';
+// @import 'base/bootstrap-reboot.min';
+@import 'base/bootstrap.min';
+@import 'base/slick';
 
 * {
     font-family: 'MuseoModerno' sans-serif;
@@ -151,7 +156,7 @@
 
 
 
-@import 'media.scss'
+@import 'base/_media'
 
 
 

@@ -27,6 +27,11 @@
             font-size: 14px;
         }
     }
+    .improve {
+        &__icon {
+            margin-top: 20px;
+        }
+    }
 }
 
 @media (max-width: 660px) {

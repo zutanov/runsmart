@@ -1,0 +1,12 @@
+@keyframes heartbeat {
+    from {
+        transform: scale(1); //начальное значение
+    }
+    50% {
+        transform: scale(1.4); //промежуточное значение
+    }
+    to {
+        transform: scale(1); // конечное значение
+    }
+
+}
